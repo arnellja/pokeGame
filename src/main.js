@@ -33,7 +33,7 @@ let data = {
     name: "Vinosaur",
     health: "300 HP",
     type: "Grass",
-    image: "vinosaur.png"
+    image: "Vinosaur.png"
 
   },
   {
@@ -129,7 +129,7 @@ let data = {
     name: "Hit Mon Champ",
     health: "250 HP",
     type: "Fighting",
-    image: "hitchamp.jpg"
+    image: "hitChamp.jpg"
 
   },
   {
@@ -137,7 +137,7 @@ let data = {
     name: "Hit Mon Lee",
     health: "250 HP",
     type: "Fighting",
-    image: "hitlee.jpg"
+    image: "hitLee.jpg"
 
   },
   {
